@@ -1,1 +1,1 @@
-More c programing on pointers, arrays and strings/
+More c programing on pointers, arrays and strings.
